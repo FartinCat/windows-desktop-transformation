@@ -18,15 +18,13 @@
 
 # 📺 Watch the Tutorial
 
-Watch the complete setup guide on YouTube.
-
-▶ https://www.youtube.com/watch?v=2hNsbKNiSbE
+Watch the complete setup guide on YouTube: [https://www.youtube.com/watch?v=2hNsbKNiSbE](https://www.youtube.com/watch?v=2hNsbKNiSbE)
 
 ---
 
 # 📂 GitHub Repository
 
-https://github.com/FartinCat/windows-desktop-transformation
+[https://github.com/FartinCat/windows-desktop-transformation](https://github.com/FartinCat/windows-desktop-transformation)
 
 ---
 
@@ -134,15 +132,9 @@ Use the same wallpaper in both Windows and Seelen UI.
 
 If this project helped you:
 
-⭐ Star this repository
-
-https://github.com/FartinCat/windows-desktop-transformation
-
-📺 Subscribe
-
-https://www.youtube.com/@fartincat
-
-👍 Share this project
+- ⭐ [Star this repository](https://github.com/FartinCat/windows-desktop-transformation)
+- 📺 [Subscribe](https://www.youtube.com/@fartincat)
+- 👍 Share this project
 
 ---
 
