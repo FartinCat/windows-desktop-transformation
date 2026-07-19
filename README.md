@@ -1,30 +1,117 @@
 # 🪐 Minimalist Windows-to-Linux Desktop Overhaul
 
-[![Aether Tech YouTube](https://img.shields.io/badge/YouTube-Aether%20Tech-red?style=for-the-badge&logo=youtube)](https://youtube.com/@AetherTech)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Environment: Windows 11](https://img.shields.io/badge/Environment-Windows%2011-blue?style=for-the-badge&logo=windows)](https://microsoft.com/windows)
+> Transform your Windows 11 desktop into a clean, Linux-inspired workspace using **Seelen UI**.
 
-Welcome to the official repository for the ultimate Windows 11 visual transformation workflow. This project provides the core links, scripts, and configuration guidelines showcased on **Aether Tech** to completely morph your stock desktop environment into a ultra-minimalist, Arch Linux-inspired tiled workspace.
-
----
-
-## 📺 Watch the Full Tutorial
-
-Click the banner below to watch the step-by-step visual overhaul breakdown on YouTube:
-
-[![Windows to Arch Desktop Transformation](https://img.shields.io/badge/Aether_Tech-Click_To_Watch_Tutorial-cyan?style=filled-new-button&logo=youtube&logoColor=white&labelColor=black)](YOUR_YOUTUBE_VIDEO_URL_HERE)
-
-> [!TIP]
-> Make sure to follow the step-by-step instructions in the video to cleanly handle the custom Start Menu key interception and background gesture synchronization.
+[![YouTube](https://img.shields.io/badge/YouTube-Aether%20Tech-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@AetherTech)
+[![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
 
-## 🚀 Step-by-Step Installation
+# 📺 Video
 
-Follow these precise steps to deploy the utilities cleanly without conflicting with your native system settings.
+Replace with your video:
 
-### 1. Install Background Utilities (PowerToys)
-We use **PowerToys Awake** to manage system sleep states directly from the system tray. Install the suite using Windows Package Manager via PowerShell:
+**https://youtube.com/your-video-link**
+
+---
+
+# ✨ Features
+
+- Linux-inspired desktop
+- Top bar
+- Dock
+- Window tiling
+- Wallpaper manager
+- Centered flyouts
+- Developer workflow
+
+---
+
+# 🚀 Installation
+
+## 1. Install PowerToys
 
 ```powershell
 winget install --id Microsoft.PowerToys --source winget
+```
+
+## 2. Install Seelen UI (Recommended)
+
+```powershell
+winget install --id Seelen.SeelenUI --source winget
+```
+
+## 3. Install Seelen UI (Interactive)
+
+```powershell
+winget install --id Seelen.SeelenUI --source winget --interactive
+```
+
+---
+
+# ⚙️ Configure Seelen UI
+
+Enable:
+
+| Feature | Status |
+|---------|--------|
+| Dock | ✅ |
+| Fancy Toolbar | ✅ |
+| Flyouts | ✅ |
+| Window Manager | ✅ |
+| Wallpaper Manager | ✅ |
+
+---
+
+# 🎨 Wallpaper Synchronization
+
+1. Right click Desktop → Personalize
+2. Enable Dark Mode
+3. Use the same wallpaper in Windows and Seelen UI.
+
+---
+
+# 📁 Repository Structure
+
+```text
+.
+├── README.md
+├── wallpapers/
+├── screenshots/
+└── assets/
+```
+
+---
+
+# 🛠 Troubleshooting
+
+## winget not found
+
+Update **App Installer** from Microsoft Store.
+
+## Window tiling not working
+
+Enable **Window Manager** inside Seelen UI.
+
+## Wallpaper flashes
+
+Use identical wallpapers in both Windows and Seelen UI.
+
+---
+
+# 🤝 Support
+
+If this project helped you:
+
+⭐ Star the repository
+
+📺 Subscribe to Aether Tech
+
+👍 Share the project
+
+---
+
+# 📜 License
+
+MIT License
