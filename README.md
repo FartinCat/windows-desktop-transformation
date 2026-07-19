@@ -3,15 +3,18 @@
 > Transform your Windows 11 desktop into a clean, Linux-inspired workspace using **Seelen UI** and **Microsoft PowerToys**.
 
 <p align="center">
-
-[![YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2hNsbKNiSbE)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FartinCat/windows-desktop-transformation)
-
-[![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-
-[![License](https://img.shields.io/badge/License-MIT-32CD32?style=for-the-badge)](LICENSE)
-
+  <a href="https://www.youtube.com/watch?v=2hNsbKNiSbE">
+    <img src="https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://github.com/FartinCat/windows-desktop-transformation">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.microsoft.com/windows">
+    <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11">
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-32CD32?style=for-the-badge" alt="MIT License">
+  </a>
 </p>
 
 ---
