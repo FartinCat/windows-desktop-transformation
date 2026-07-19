@@ -4,13 +4,13 @@
 
 <p align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch_Video-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2hNsbKNiSbE)
+[![YouTube](https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2hNsbKNiSbE)
 
-[![Repository](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FartinCat/windows-desktop-transformation)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FartinCat/windows-desktop-transformation)
 
-[![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-32CD32?style=for-the-badge)](LICENSE)
 
 </p>
 
